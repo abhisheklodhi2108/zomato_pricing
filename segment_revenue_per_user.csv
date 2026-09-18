@@ -1,0 +1,9 @@
+segment,discount_shown,users_in_group,total_net_revenue,net_revenue_per_user
+active,0,1562,244450.2,156.5
+active,1,1589,118523.92,74.59
+high_frequency,0,923,209435.02,226.91
+high_frequency,1,917,85597.21,93.34
+lapsed,0,1134,32813.92,28.94
+lapsed,1,1107,47703.94,43.09
+new,0,885,42291.12,47.79
+new,1,883,40401.69,45.76

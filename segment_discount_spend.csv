@@ -1,0 +1,5 @@
+segment,discounted_orders,total_discount_spend,avg_discount_per_order,total_net_revenue
+active,1319,170361.96,129.16,118523.92
+high_frequency,957,123821.06,129.38,85597.21
+lapsed,526,68254.01,129.76,47703.94
+new,452,58600.81,129.65,40401.69

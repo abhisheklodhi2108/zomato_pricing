@@ -1,0 +1,5 @@
+segment,conv_rate_no_discount,conv_rate_discount,lift_pct_points,chi2_stat,p_value,significant_at_0.01,total_discount_spend,incremental_converted_users,discount_cost_per_incremental_user
+lapsed,10.4,36.7,26.3,214.32,0.0,True,68254.01,589.0,115.88
+new,17.3,40.3,23.0,113.22,0.0,True,58600.81,407.0,143.98
+active,55.7,64.1,8.4,22.62,2e-06,True,170361.96,265.0,642.88
+high_frequency,79.0,81.9,2.9,2.3,0.129088,False,123821.06,53.0,2336.25

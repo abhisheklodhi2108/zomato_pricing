@@ -1,0 +1,9 @@
+segment,discount_shown,users_in_group,converted_count,conversion_rate_pct
+active,0,1562,870,55.7
+active,1,1589,1018,64.1
+high_frequency,0,923,729,79.0
+high_frequency,1,917,751,81.9
+lapsed,0,1134,118,10.4
+lapsed,1,1107,406,36.7
+new,0,885,153,17.3
+new,1,883,356,40.3
